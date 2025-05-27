@@ -1,0 +1,11 @@
+{
+    "name": "lambda-login",
+    "version": "1.0.0",
+    "description": "AWS Lambda function for user login",
+    "main": "login.js",
+    "scripts": {},
+    "dependencies": {
+      "aws-sdk": "^2.1400.0",
+      "bcryptjs": "^2.4.3"
+    }
+  }
